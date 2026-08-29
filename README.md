@@ -2,9 +2,9 @@
 👋 Hello, fellow traveler.<br>I am a wanderer on the path of code — a student at COER University, walking through the fog of knowledge one sequence at a time.<br>Like the Beyonders who came before, I seek understanding through curiosity, patience, and quiet persistence — turning errors into clues, and confusion into clarity.<br><br>"The fog hides the path, but the traveler walks anyway."<br><br>🎩 Current Sequence<br><br>🎓 Student @ COER University<br>💡 Passionate about development and turning new ideas into reality<br>🌱 Always exploring, always building<br><br>🛠️ Pathway & Tools<br><br>Languages: C++, JavaScript, Python, SQL<br>Database: MongoDB<br>Currently exploring: new libraries (REACT) , frameworks & development tools and Game Development Engine<br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&theme=fuji&color=%23ffffffFF">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&theme=fuji&color=%23ffffffFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=abhigyanTakt&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
 </picture>
 
 ## 🌐 Socials:
