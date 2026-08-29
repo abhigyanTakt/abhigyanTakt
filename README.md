@@ -1,7 +1,6 @@
 # 🕰️ About Me:
 👋 Hello, fellow traveler.<br>I am a wanderer on the path of code — a student at COER University, walking through the fog of knowledge one sequence at a time.<br>Like the Beyonders who came before, I seek understanding through curiosity, patience, and quiet persistence — turning errors into clues, and confusion into clarity.<br><br>"The fog hides the path, but the traveler walks anyway."<br><br>🎩 Current Sequence<br><br>🎓 Student @ COER University<br>💡 Passionate about development and turning new ideas into reality<br>🌱 Always exploring, always building<br><br>🛠️ Pathway & Tools<br><br>Languages: C++, JavaScript, Python, SQL<br>Database: MongoDB<br>Currently exploring: new libraries (REACT) , frameworks & development tools and Game Development Engine<br>
 
-[![GitHub Card](https://card.shiina.xyz/card/abhigyanTakt?theme=tokyonight)](https://github.com/abhigyanTakt)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhigyan-dubey-5468bb320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhigyandubey006@gmail.com) 
