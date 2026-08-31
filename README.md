@@ -4,7 +4,7 @@
 
 <div align="center">
 <img src="https://i.pinimg.com/736x/e9/af/a4/e9afa45f54ccd8a82811f23a134da2ca.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+How+are+you%3F;Myself+Abhigyan" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     💼 B.Tech CSE • Back-end dev • Front-end Dev
@@ -12,13 +12,9 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg4ZmN5ODQ2NjE1cXNjd3ZienVmZ2dweXpsaHplc2JseHFkaTk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M2MfHCGMIA9BttTakR/giphy.gif" height="40" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg4ZmN5ODQ2NjE1cXNjd3ZienVmZ2dweXpsaHplc2JseHFkaTk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M2MfHCGMIA9BttTakR/giphy.gif" height="70" />
 <br><br>
     
-<!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
-<!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
 
 
