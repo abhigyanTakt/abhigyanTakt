@@ -1,7 +1,3 @@
-# 🕰️ About Me:
-👋 Hello, fellow traveler.<br>I am a wanderer on the path of code — a student at COER University, walking through the fog of knowledge one sequence at a time.<br>Like the Beyonders who came before, I seek understanding through curiosity, patience, and quiet persistence — turning errors into clues, and confusion into clarity.<br><br>"The fog hides the path, but the traveler walks anyway."<br>
-
-
 <div align="center">
 <img src="https://i.pinimg.com/736x/e9/af/a4/e9afa45f54ccd8a82811f23a134da2ca.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+How+are+you%3F;Myself+Abhigyan" alt="Typing SVG" /></a>
