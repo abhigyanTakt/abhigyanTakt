@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 B.Tech CSE • Back-end dev • Front-end Dev
-    💻 programming languages • Machine Learning  • Innovative Ideas
+    💻 programming languages • Machine Learning  • Innovative Idea
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
