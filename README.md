@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 B.Tech CSE • Back-end dev • Front-end Dev
-    💻 programming languages • Machine Learning  • Innovative Ideas
-    🎮 Music • Games • Anime • Code • Art
+    💻 programming languages • Machine Learning  • Innovative Ideas • Problem solving
+    🎮 Music • Games • Anime • Code • Art • Volleyball
 </pre>
 <br>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg4ZmN5ODQ2NjE1cXNjd3ZienVmZ2dweXpsaHplc2JseHFkaTk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M2MfHCGMIA9BttTakR/giphy.gif" height="70" />
